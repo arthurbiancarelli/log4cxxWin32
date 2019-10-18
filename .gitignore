@@ -10,8 +10,14 @@
 # Precompiled Headers
 *.gch
 *.pch
+*.ipch
 
 # Fortran module files
 *.mod
 *.smod
+
+# Log files
+*.tlog
+*.log
+
 

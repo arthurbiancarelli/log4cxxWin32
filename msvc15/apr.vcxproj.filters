@@ -445,5 +445,8 @@
     <ClCompile Include="..\apr\user\win32\userinfo.c">
       <Filter>Source Files\user</Filter>
     </ClCompile>
+    <ClCompile Include="..\apr\poll\unix\wakeup.c">
+      <Filter>Source Files\poll</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
