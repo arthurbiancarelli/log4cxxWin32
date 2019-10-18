@@ -1,0 +1,41 @@
+http://letcoderock.blogspot.com/2017/09/build-log4cxx-trunk-on-windows-by.html
+
+1:
+    Open the Visual Studio Command Prompt
+    Go to [apr\tools\] folder
+    Run command "cl gen_test_char.c" to build gen_test_char.exe
+    Run command "gen_test_char > apr_escape_test_char.h" to create the missing header file
+    Copy the generated apr_escape_test_char.h to [apr\include\] folder
+
+
+2:
+
+
+cd apr-util/xml
+git clone git@github.com:libexpat/libexpat.git
+Copying the [libexpat\expat\] folder, i.e. from libexpat project source, to [apr-util\xml\], then aprutil can be built properly
+cd apr-util/dbd/unsupported
+cp apr_dbd_freetds.c ../
+
+
+https://github.com/aescande/log4cxxWin32
+
+
+
+
+Add apr\include\private to include directories
+
+
+Add to apr\network_io\unix\sockaddress.c
+#if WIN32
+ /* Length of interface name.  */
+#define IF_NAMESIZE	16
+#endif
+
+
+Move all LOG4CXX_LIST_DEF  (explicit template initizalization) from classes before class definition and others
+https://stackoverflow.com/questions/8461123/building-log4cxx-in-vs-2010-c
+
+
+
+Add existing source wakeup.c to apr/poll 
