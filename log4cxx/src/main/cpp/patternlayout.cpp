@@ -56,27 +56,27 @@ using namespace log4cxx::pattern;
 IMPLEMENT_LOG4CXX_OBJECT(PatternLayout)
 
 
-PatternLayout::PatternLayout()
+log4cxx::PatternLayout::PatternLayout()
 {
 }
 
 /**
 Constructs a PatternLayout using the supplied conversion pattern.
 */
-PatternLayout::PatternLayout(const LogString& pattern)
+log4cxx::PatternLayout::PatternLayout(const LogString& pattern)
   : conversionPattern(pattern) {
   Pool pool;
   activateOptions(pool);
 }
 
-void PatternLayout::setConversionPattern(const LogString& pattern)
+void log4cxx::PatternLayout::setConversionPattern(const LogString& pattern)
 {
     conversionPattern = pattern;
     Pool pool;
     activateOptions(pool);
 }
 
-void PatternLayout::format(LogString& output,
+void log4cxx::PatternLayout::format(LogString& output,
       const spi::LoggingEventPtr& event,
       Pool& pool) const
 {
@@ -93,7 +93,7 @@ void PatternLayout::format(LogString& output,
 
 }
 
-void PatternLayout::setOption(const LogString& option, const LogString& value)
+void log4cxx::PatternLayout::setOption(const LogString& option, const LogString& value)
 {
         if (StringHelper::equalsIgnoreCase(option,
                LOG4CXX_STR("CONVERSIONPATTERN"),
@@ -103,7 +103,7 @@ void PatternLayout::setOption(const LogString& option, const LogString& value)
         }
 }
 
-void PatternLayout::activateOptions(Pool&)
+void log4cxx::PatternLayout::activateOptions(Pool&)
 {
         LogString pat(conversionPattern);
         if (pat.empty()) {
@@ -135,7 +135,7 @@ void PatternLayout::activateOptions(Pool&)
 specs.insert(PatternMap::value_type(LogString(LOG4CXX_STR(spec)), (PatternConstructor) cls ::newInstance))
 
 
-log4cxx::pattern::PatternMap PatternLayout::getFormatSpecifiers() {
+log4cxx::pattern::PatternMap log4cxx::PatternLayout::getFormatSpecifiers() {
   PatternMap specs;
   RULES_PUT("c", LoggerPatternConverter);
   RULES_PUT("logger", LoggerPatternConverter);

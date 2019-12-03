@@ -60,15 +60,15 @@ public:                                                         \
     static const helpers::ClassRegistration &registerClass();
 
 #define IMPLEMENT_LOG4CXX_OBJECT(object)                                                       \
-    const helpers::Class &object::getClass() const { return getStaticClass(); }       \
-    const helpers::Class &object::getStaticClass()                                    \
+    const log4cxx::helpers::Class &object::getClass() const { return getStaticClass(); }       \
+    const log4cxx::helpers::Class &object::getStaticClass()                                    \
     {                                                                                          \
         static Clazz##object theClass;                                                         \
         return theClass;                                                                       \
     }                                                                                          \
-    const helpers::ClassRegistration &object::registerClass()                         \
+    const log4cxx::helpers::ClassRegistration &object::registerClass()                         \
     {                                                                                          \
-        static helpers::ClassRegistration classReg(object::getStaticClass);           \
+        static log4cxx::helpers::ClassRegistration classReg(object::getStaticClass);           \
         return classReg;                                                                       \
     }                                                                                          \
     namespace log4cxx                                                                          \
