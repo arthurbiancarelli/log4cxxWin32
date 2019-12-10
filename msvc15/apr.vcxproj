@@ -277,6 +277,7 @@ cl.exe /nologo /W3 /EHsc /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /FD
       <ProgramDataBaseFileName>$(OutDir)$(ProjectName).pdb</ProgramDataBaseFileName>
       <AdditionalIncludeDirectories>C:\Users\Arthur\Documents\log4cxxWin32\apr\include\private;$(SolutionDir)..\apr\include;$(SolutionDir)..\apr\include\arch;$(SolutionDir)..\apr\include\arch\win32;$(SolutionDir)..\apr\include\arch\unix;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
     </ClCompile>
     <Link>
       <GenerateDebugInformation>true</GenerateDebugInformation>

@@ -282,6 +282,7 @@ copy /Y ..\apr-util\include\private\apu_select_dbm.hw ..\apr-util\include\privat
       <PreprocessorDefinitions>_DEBUG;APR_DECLARE_STATIC;APU_DECLARE_STATIC;API_DECLARE_STATIC;APU_USE_SDBM;HAVE_SQL_H;XML_STATIC;WIN32;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <FunctionLevelLinking>false</FunctionLevelLinking>
       <ProgramDataBaseFileName>$(OutDir)$(ProjectName).pdb</ProgramDataBaseFileName>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
     </ClCompile>
     <Link>
       <GenerateDebugInformation>true</GenerateDebugInformation>
