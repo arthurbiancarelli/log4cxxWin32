@@ -1,0 +1,1214 @@
+Microsoft (R) COFF/PE Dumper Version 14.16.27027.1
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Dump of file log4cxx.lib
+
+File Type: LIBRARY
+
+Archive member name at 339E5E: /0              C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\zipcompressaction.obj
+5DA95807 time/date Fri Oct 18 08:13:27 2019
+         uid
+         gid
+  100666 mode
+   33D15 size
+correct header end
+
+Archive member name at 36DBB0: /92             C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\xmlsocketappender.obj
+5DA95807 time/date Fri Oct 18 08:13:27 2019
+         uid
+         gid
+  100666 mode
+   5B842 size
+correct header end
+
+Archive member name at 3C942E: /184            C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\xmllayout.obj
+5DA95807 time/date Fri Oct 18 08:13:27 2019
+         uid
+         gid
+  100666 mode
+   771C7 size
+correct header end
+
+Archive member name at 440632: /268            C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\writerappender.obj
+5DA95807 time/date Fri Oct 18 08:13:27 2019
+         uid
+         gid
+  100666 mode
+   6579C size
+correct header end
+
+Archive member name at 4A5E0A: /357            C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\writer.obj
+5DA95807 time/date Fri Oct 18 08:13:27 2019
+         uid
+         gid
+  100666 mode
+   29247 size
+correct header end
+
+Archive member name at 4CF08E: /438            C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\ttcclayout.obj
+5DA95807 time/date Fri Oct 18 08:13:27 2019
+         uid
+         gid
+  100666 mode
+   3E1C1 size
+correct header end
+
+Archive member name at 50D28C: /523            C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\triggeringpolicy.obj
+5DA95807 time/date Fri Oct 18 08:13:27 2019
+         uid
+         gid
+  100666 mode
+   2BF3B size
+correct header end
+
+Archive member name at 539204: /614            C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\transform.obj
+5DA95807 time/date Fri Oct 18 08:13:27 2019
+         uid
+         gid
+  100666 mode
+   323FB size
+correct header end
+
+Archive member name at 56B63C: /698            C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\transcoder.obj
+5DA95803 time/date Fri Oct 18 08:13:23 2019
+         uid
+         gid
+  100666 mode
+   7BBC0 size
+correct header end
+
+Archive member name at 5E7238: /783            C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\timezone.obj
+5DA95803 time/date Fri Oct 18 08:13:23 2019
+         uid
+         gid
+  100666 mode
+   6B08D size
+correct header end
+
+Archive member name at 652302: /866            C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\timebasedrollingpolicy.obj
+5DA95803 time/date Fri Oct 18 08:13:23 2019
+         uid
+         gid
+  100666 mode
+  1522F8 size
+correct header end
+
+Archive member name at 7A4636: /963            C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\throwableinformationpatternconverter.obj
+5DA95804 time/date Fri Oct 18 08:13:24 2019
+         uid
+         gid
+  100666 mode
+   3EBED size
+correct header end
+
+Archive member name at 7E3260: /1074           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\threadspecificdata.obj
+5DA95804 time/date Fri Oct 18 08:13:24 2019
+         uid
+         gid
+  100666 mode
+  146FE7 size
+correct header end
+
+Archive member name at 92A284: /1167           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\threadpatternconverter.obj
+5DA95804 time/date Fri Oct 18 08:13:24 2019
+         uid
+         gid
+  100666 mode
+   38DAF size
+correct header end
+
+Archive member name at 963070: /1264           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\threadlocal.obj
+5DA95804 time/date Fri Oct 18 08:13:24 2019
+         uid
+         gid
+  100666 mode
+    DB7E size
+correct header end
+
+Archive member name at 970C2A: /1350           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\threadcxx.obj
+5DA95804 time/date Fri Oct 18 08:13:24 2019
+         uid
+         gid
+  100666 mode
+   136D6 size
+correct header end
+
+Archive member name at 98433C: /1434           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\telnetappender.obj
+5DA95804 time/date Fri Oct 18 08:13:24 2019
+         uid
+         gid
+  100666 mode
+   99435 size
+correct header end
+
+Archive member name at A1D7AE: /1523           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\systemoutwriter.obj
+5DA95804 time/date Fri Oct 18 08:13:24 2019
+         uid
+         gid
+  100666 mode
+   3D412 size
+correct header end
+
+Archive member name at A5ABFC: /1613           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\systemerrwriter.obj
+5DA95804 time/date Fri Oct 18 08:13:24 2019
+         uid
+         gid
+  100666 mode
+   3D41A size
+correct header end
+
+Archive member name at A98052: /1703           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\system.obj
+5DA95804 time/date Fri Oct 18 08:13:24 2019
+         uid
+         gid
+  100666 mode
+   471CF size
+correct header end
+
+Archive member name at ADF25E: /1784           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\syslogwriter.obj
+5DA95804 time/date Fri Oct 18 08:13:24 2019
+         uid
+         gid
+  100666 mode
+   488C7 size
+correct header end
+
+Archive member name at B27B62: /1871           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\syslogappender.obj
+5DA95804 time/date Fri Oct 18 08:13:24 2019
+         uid
+         gid
+  100666 mode
+   69413 size
+correct header end
+
+Archive member name at B90FB2: /1960           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\synchronized.obj
+5DA95804 time/date Fri Oct 18 08:13:24 2019
+         uid
+         gid
+  100666 mode
+    CA24 size
+correct header end
+
+Archive member name at B9DA12: /2047           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\stringtokenizer.obj
+5DA95804 time/date Fri Oct 18 08:13:24 2019
+         uid
+         gid
+  100666 mode
+   32D9D size
+correct header end
+
+Archive member name at BD07EC: /2137           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\stringmatchfilter.obj
+5DA95804 time/date Fri Oct 18 08:13:24 2019
+         uid
+         gid
+  100666 mode
+   3CAF1 size
+correct header end
+
+Archive member name at C0D31A: /2229           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\stringhelper.obj
+5DA95804 time/date Fri Oct 18 08:13:24 2019
+         uid
+         gid
+  100666 mode
+   82DFB size
+correct header end
+
+Archive member name at C90152: /2316           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\strftimedateformat.obj
+5DA95804 time/date Fri Oct 18 08:13:24 2019
+         uid
+         gid
+  100666 mode
+   2E78E size
+correct header end
+
+Archive member name at CBE91C: /2409           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\socketoutputstream.obj
+5DA95804 time/date Fri Oct 18 08:13:24 2019
+         uid
+         gid
+  100666 mode
+   4AB00 size
+correct header end
+
+Archive member name at D09458: /2502           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\sockethubappender.obj
+5DA957FA time/date Fri Oct 18 08:13:14 2019
+         uid
+         gid
+  100666 mode
+   B6B5E size
+correct header end
+
+Archive member name at DBFFF2: /2594           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\socketappenderskeleton.obj
+5DA957FA time/date Fri Oct 18 08:13:14 2019
+         uid
+         gid
+  100666 mode
+   72583 size
+correct header end
+
+Archive member name at E325B2: /2691           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\socketappender.obj
+5DA957FA time/date Fri Oct 18 08:13:14 2019
+         uid
+         gid
+  100666 mode
+   58168 size
+correct header end
+
+Archive member name at E8A756: /2780           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\socket.obj
+5DA957FA time/date Fri Oct 18 08:13:14 2019
+         uid
+         gid
+  100666 mode
+   4D87B size
+correct header end
+
+Archive member name at ED800E: /2861           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\smtpappender.obj
+5DA957FA time/date Fri Oct 18 08:13:14 2019
+         uid
+         gid
+  100666 mode
+   80A58 size
+correct header end
+
+Archive member name at F58AA2: /2948           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\sizebasedtriggeringpolicy.obj
+5DA957FA time/date Fri Oct 18 08:13:14 2019
+         uid
+         gid
+  100666 mode
+   367AC size
+correct header end
+
+Archive member name at F8F28A: /3048           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\simplelayout.obj
+5DA957FA time/date Fri Oct 18 08:13:14 2019
+         uid
+         gid
+  100666 mode
+   39505 size
+correct header end
+
+Archive member name at FC87CC: /3135           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\simpledateformat.obj
+5DA957FA time/date Fri Oct 18 08:13:14 2019
+         uid
+         gid
+  100666 mode
+  135AD7 size
+correct header end
+
+Archive member name at 10FE2E0: /3226           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\serversocket.obj
+5DA957FA time/date Fri Oct 18 08:13:14 2019
+         uid
+         gid
+  100666 mode
+   16553 size
+correct header end
+
+Archive member name at 1114870: /3313           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\rootlogger.obj
+5DA957FA time/date Fri Oct 18 08:13:14 2019
+         uid
+         gid
+  100666 mode
+   2F2FD size
+correct header end
+
+Archive member name at 1143BAA: /3398           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\rolloverdescription.obj
+5DA957FA time/date Fri Oct 18 08:13:14 2019
+         uid
+         gid
+  100666 mode
+   38773 size
+correct header end
+
+Archive member name at 117C35A: /3492           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\rollingpolicybase.obj
+5DA957FA time/date Fri Oct 18 08:13:14 2019
+         uid
+         gid
+  100666 mode
+   F91EE size
+correct header end
+
+Archive member name at 1275584: /3584           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\rollingpolicy.obj
+5DA957FA time/date Fri Oct 18 08:13:14 2019
+         uid
+         gid
+  100666 mode
+   2867A size
+correct header end
+
+Archive member name at 129DC3A: /3672           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\rollingfileappender.obj
+5DA957FA time/date Fri Oct 18 08:13:14 2019
+         uid
+         gid
+  100666 mode
+   8638D size
+correct header end
+
+Archive member name at 1324004: /3766           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\resourcebundle.obj
+5DA957FA time/date Fri Oct 18 08:13:14 2019
+         uid
+         gid
+  100666 mode
+   8D6CC size
+correct header end
+
+Archive member name at 13B170C: /3855           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\relativetimepatternconverter.obj
+5DA957FA time/date Fri Oct 18 08:13:14 2019
+         uid
+         gid
+  100666 mode
+   36EEF size
+correct header end
+
+Archive member name at 13E8638: /3958           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\relativetimedateformat.obj
+5DA957FA time/date Fri Oct 18 08:13:14 2019
+         uid
+         gid
+  100666 mode
+   111C8 size
+correct header end
+
+Archive member name at 13F983C: /4055           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\reader.obj
+5DA957FA time/date Fri Oct 18 08:13:14 2019
+         uid
+         gid
+  100666 mode
+   2920D size
+correct header end
+
+Archive member name at 1422A86: /4136           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\propertysetter.obj
+5DA957FA time/date Fri Oct 18 08:13:14 2019
+         uid
+         gid
+  100666 mode
+   68A89 size
+correct header end
+
+Archive member name at 148B54C: /4225           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\propertyresourcebundle.obj
+5DA957FA time/date Fri Oct 18 08:13:14 2019
+         uid
+         gid
+  100666 mode
+   444C9 size
+correct header end
+
+Archive member name at 14CFA52: /4322           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\propertyconfigurator.obj
+5DA957F0 time/date Fri Oct 18 08:13:04 2019
+         uid
+         gid
+  100666 mode
+  17DC82 size
+correct header end
+
+Archive member name at 164D710: /4417           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\propertiespatternconverter.obj
+5DA957F0 time/date Fri Oct 18 08:13:04 2019
+         uid
+         gid
+  100666 mode
+   61781 size
+correct header end
+
+Archive member name at 16AEECE: /4518           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\properties.obj
+5DA957F0 time/date Fri Oct 18 08:13:04 2019
+         uid
+         gid
+  100666 mode
+  11DDEF size
+correct header end
+
+Archive member name at 17CCCFA: /4603           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\pool.obj
+5DA957F0 time/date Fri Oct 18 08:13:04 2019
+         uid
+         gid
+  100666 mode
+   10CE8 size
+correct header end
+
+Archive member name at 17DDA1E: /4682           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\patternparser.obj
+5DA957F0 time/date Fri Oct 18 08:13:04 2019
+         uid
+         gid
+  100666 mode
+  147A44 size
+correct header end
+
+Archive member name at 192549E: /4770           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\patternlayout.obj
+5DA957F0 time/date Fri Oct 18 08:13:04 2019
+         uid
+         gid
+  100666 mode
+  1E2BD6 size
+correct header end
+
+Archive member name at 1B080B0: /4858           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\patternconverter.obj
+5DA957F0 time/date Fri Oct 18 08:13:04 2019
+         uid
+         gid
+  100666 mode
+   3275E size
+correct header end
+
+Archive member name at 1B3A84A: /4949           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\outputstreamwriter.obj
+5DA957F0 time/date Fri Oct 18 08:13:04 2019
+         uid
+         gid
+  100666 mode
+   41B85 size
+correct header end
+
+Archive member name at 1B7C40C: /5042           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\outputstream.obj
+5DA957F0 time/date Fri Oct 18 08:13:04 2019
+         uid
+         gid
+  100666 mode
+   29600 size
+correct header end
+
+Archive member name at 1BA5A48: /5129           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\outputdebugstringappender.obj
+5DA957F0 time/date Fri Oct 18 08:13:04 2019
+         uid
+         gid
+  100666 mode
+   4D92A size
+correct header end
+
+Archive member name at 1BF33AE: /5229           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\optionconverter.obj
+5DA957F0 time/date Fri Oct 18 08:13:04 2019
+         uid
+         gid
+  100666 mode
+   86353 size
+correct header end
+
+Archive member name at 1C7973E: /5319           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\onlyonceerrorhandler.obj
+5DA957F0 time/date Fri Oct 18 08:13:04 2019
+         uid
+         gid
+  100666 mode
+   38AB8 size
+correct header end
+
+Archive member name at 1CB2232: /5414           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\odbcappender.obj
+5DA957F0 time/date Fri Oct 18 08:13:04 2019
+         uid
+         gid
+  100666 mode
+   AE94A size
+correct header end
+
+Archive member name at 1D60BB8: /5501           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\obsoleterollingfileappender.obj
+5DA957F0 time/date Fri Oct 18 08:13:04 2019
+         uid
+         gid
+  100666 mode
+   5F4D6 size
+correct header end
+
+Archive member name at 1DC00CA: /5603           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\objectptr.obj
+5DA957F0 time/date Fri Oct 18 08:13:04 2019
+         uid
+         gid
+  100666 mode
+   28C8C size
+correct header end
+
+Archive member name at 1DE8D92: /5687           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\objectoutputstream.obj
+5DA957F0 time/date Fri Oct 18 08:13:04 2019
+         uid
+         gid
+  100666 mode
+   DA74D size
+correct header end
+
+Archive member name at 1EC351C: /5780           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\objectimpl.obj
+5DA957F0 time/date Fri Oct 18 08:13:04 2019
+         uid
+         gid
+  100666 mode
+    BE3C size
+correct header end
+
+Archive member name at 1ECF394: /5865           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\nteventlogappender.obj
+5DA957F0 time/date Fri Oct 18 08:13:04 2019
+         uid
+         gid
+  100666 mode
+   62117 size
+correct header end
+
+Archive member name at 1F314E8: /5958           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\ndcpatternconverter.obj
+5DA957F1 time/date Fri Oct 18 08:13:05 2019
+         uid
+         gid
+  100666 mode
+   382AF size
+correct header end
+
+Archive member name at 1F697D4: /6052           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\ndc.obj
+5DA957F1 time/date Fri Oct 18 08:13:05 2019
+         uid
+         gid
+  100666 mode
+   804F1 size
+correct header end
+
+Archive member name at 1FE9D02: /6130           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\namepatternconverter.obj
+5DA957E6 time/date Fri Oct 18 08:12:54 2019
+         uid
+         gid
+  100666 mode
+   354ED size
+correct header end
+
+Archive member name at 201F22C: /6225           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\nameabbreviator.obj
+5DA957E6 time/date Fri Oct 18 08:12:54 2019
+         uid
+         gid
+  100666 mode
+   96169 size
+correct header end
+
+Archive member name at 20B53D2: /6315           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\mutex.obj
+5DA957E6 time/date Fri Oct 18 08:12:54 2019
+         uid
+         gid
+  100666 mode
+    CE7A size
+correct header end
+
+Archive member name at 20C2288: /6395           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\methodlocationpatternconverter.obj
+5DA957E6 time/date Fri Oct 18 08:12:54 2019
+         uid
+         gid
+  100666 mode
+   3E63B size
+correct header end
+
+Archive member name at 2100900: /6500           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\messagepatternconverter.obj
+5DA957E6 time/date Fri Oct 18 08:12:54 2019
+         uid
+         gid
+  100666 mode
+   38EA7 size
+correct header end
+
+Archive member name at 21397E4: /6598           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\messagebuffer.obj
+5DA957E6 time/date Fri Oct 18 08:12:54 2019
+         uid
+         gid
+  100666 mode
+   915B1 size
+correct header end
+
+Archive member name at 21CADD2: /6686           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\mdc.obj
+5DA957E6 time/date Fri Oct 18 08:12:54 2019
+         uid
+         gid
+  100666 mode
+   8CCF7 size
+correct header end
+
+Archive member name at 2257B06: /6764           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\manualtriggeringpolicy.obj
+5DA957E6 time/date Fri Oct 18 08:12:54 2019
+         uid
+         gid
+  100666 mode
+   35A18 size
+correct header end
+
+Archive member name at 228D55A: /6861           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\logstream.obj
+5DA957E6 time/date Fri Oct 18 08:12:54 2019
+         uid
+         gid
+  100666 mode
+   7DC5D size
+correct header end
+
+Archive member name at 230B1F4: /6945           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\logmanager.obj
+5DA957E6 time/date Fri Oct 18 08:12:54 2019
+         uid
+         gid
+  100666 mode
+   3E7C5 size
+correct header end
+
+Archive member name at 23499F6: /7030           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\loglog.obj
+5DA957E6 time/date Fri Oct 18 08:12:54 2019
+         uid
+         gid
+  100666 mode
+   454BB size
+correct header end
+
+Archive member name at 238EEEE: /7111           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\loggingeventpatternconverter.obj
+5DA957E6 time/date Fri Oct 18 08:12:54 2019
+         uid
+         gid
+  100666 mode
+   30A34 size
+correct header end
+
+Archive member name at 23BF95E: /7214           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\loggingevent.obj
+5DA957E6 time/date Fri Oct 18 08:12:54 2019
+         uid
+         gid
+  100666 mode
+  14412A size
+correct header end
+
+Archive member name at 2503AC4: /7301           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\loggerpatternconverter.obj
+5DA957E6 time/date Fri Oct 18 08:12:54 2019
+         uid
+         gid
+  100666 mode
+   408D3 size
+correct header end
+
+Archive member name at 25443D4: /7398           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\logger.obj
+5DA957E6 time/date Fri Oct 18 08:12:54 2019
+         uid
+         gid
+  100666 mode
+   DE0A4 size
+correct header end
+
+Archive member name at 26224B4: /7479           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\locationinfo.obj
+5DA957E6 time/date Fri Oct 18 08:12:54 2019
+         uid
+         gid
+  100666 mode
+   3D253 size
+correct header end
+
+Archive member name at 265F744: /7566           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\locale.obj
+5DA957E6 time/date Fri Oct 18 08:12:54 2019
+         uid
+         gid
+  100666 mode
+   24B9F size
+correct header end
+
+Archive member name at 2684320: /7647           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\loader.obj
+5DA957E6 time/date Fri Oct 18 08:12:54 2019
+         uid
+         gid
+  100666 mode
+   6B776 size
+correct header end
+
+Archive member name at 26EFAD2: /7728           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\literalpatternconverter.obj
+5DA957E6 time/date Fri Oct 18 08:12:54 2019
+         uid
+         gid
+  100666 mode
+   3DF5C size
+correct header end
+
+Archive member name at 272DA6A: /7826           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\lineseparatorpatternconverter.obj
+5DA957E6 time/date Fri Oct 18 08:12:54 2019
+         uid
+         gid
+  100666 mode
+   389BD size
+correct header end
+
+Archive member name at 2766464: /7930           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\linelocationpatternconverter.obj
+5DA957DD time/date Fri Oct 18 08:12:45 2019
+         uid
+         gid
+  100666 mode
+   36F2C size
+correct header end
+
+Archive member name at 279D3CC: /8033           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\levelrangefilter.obj
+5DA957DD time/date Fri Oct 18 08:12:45 2019
+         uid
+         gid
+  100666 mode
+   398EC size
+correct header end
+
+Archive member name at 27D6CF4: /8124           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\levelpatternconverter.obj
+5DA957DD time/date Fri Oct 18 08:12:45 2019
+         uid
+         gid
+  100666 mode
+   46630 size
+correct header end
+
+Archive member name at 281D360: /8220           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\levelmatchfilter.obj
+5DA957DD time/date Fri Oct 18 08:12:45 2019
+         uid
+         gid
+  100666 mode
+   3997F size
+correct header end
+
+Archive member name at 2856D1C: /8311           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\level.obj
+5DA957DD time/date Fri Oct 18 08:12:45 2019
+         uid
+         gid
+  100666 mode
+   4474D size
+correct header end
+
+Archive member name at 289B4A6: /8391           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\layout.obj
+5DA957DD time/date Fri Oct 18 08:12:45 2019
+         uid
+         gid
+  100666 mode
+   2BF2C size
+correct header end
+
+Archive member name at 28C740E: /8472           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\integerpatternconverter.obj
+5DA957DD time/date Fri Oct 18 08:12:45 2019
+         uid
+         gid
+  100666 mode
+   37696 size
+correct header end
+
+Archive member name at 28FEAE0: /8570           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\integer.obj
+5DA957DD time/date Fri Oct 18 08:12:45 2019
+         uid
+         gid
+  100666 mode
+   2DCF4 size
+correct header end
+
+Archive member name at 292C810: /8652           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\inputstreamreader.obj
+5DA957DD time/date Fri Oct 18 08:12:45 2019
+         uid
+         gid
+  100666 mode
+   3FC22 size
+correct header end
+
+Archive member name at 296C46E: /8744           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\inputstream.obj
+5DA957DD time/date Fri Oct 18 08:12:45 2019
+         uid
+         gid
+  100666 mode
+   29534 size
+correct header end
+
+Archive member name at 29959DE: /8830           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\inetaddress.obj
+5DA957DD time/date Fri Oct 18 08:12:45 2019
+         uid
+         gid
+  100666 mode
+   8E2D8 size
+correct header end
+
+Archive member name at 2A23CF2: /8916           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\htmllayout.obj
+5DA957DD time/date Fri Oct 18 08:12:45 2019
+         uid
+         gid
+  100666 mode
+   644CB size
+correct header end
+
+Archive member name at 2A881FA: /9001           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\hierarchy.obj
+5DA957DD time/date Fri Oct 18 08:12:45 2019
+         uid
+         gid
+  100666 mode
+  232DD6 size
+correct header end
+
+Archive member name at 2CBB00C: /9085           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\gzcompressaction.obj
+5DA957DD time/date Fri Oct 18 08:12:45 2019
+         uid
+         gid
+  100666 mode
+   33BB7 size
+correct header end
+
+Archive member name at 2CEEC00: /9176           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\fulllocationpatternconverter.obj
+5DA957DD time/date Fri Oct 18 08:12:45 2019
+         uid
+         gid
+  100666 mode
+   4C6BD size
+correct header end
+
+Archive member name at 2D3B2FA: /9279           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\formattinginfo.obj
+5DA957DD time/date Fri Oct 18 08:12:45 2019
+         uid
+         gid
+  100666 mode
+   4576C size
+correct header end
+
+Archive member name at 2D80AA2: /9368           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\fixedwindowrollingpolicy.obj
+5DA957DD time/date Fri Oct 18 08:12:45 2019
+         uid
+         gid
+  100666 mode
+  1AB7E1 size
+correct header end
+
+Archive member name at 2F2C2C0: /9467           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\filterbasedtriggeringpolicy.obj
+5DA957DD time/date Fri Oct 18 08:12:45 2019
+         uid
+         gid
+  100666 mode
+   3DCFD size
+correct header end
+
+Archive member name at 2F69FFA: /9569           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\filter.obj
+5DA957DD time/date Fri Oct 18 08:12:45 2019
+         uid
+         gid
+  100666 mode
+   12643 size
+correct header end
+
+Archive member name at 2F7C67A: /9650           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\filewatchdog.obj
+5DA957DD time/date Fri Oct 18 08:12:45 2019
+         uid
+         gid
+  100666 mode
+   352CC size
+correct header end
+
+Archive member name at 2FB1982: /9737           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\filerenameaction.obj
+5DA957D4 time/date Fri Oct 18 08:12:36 2019
+         uid
+         gid
+  100666 mode
+   2E0E7 size
+correct header end
+
+Archive member name at 2FDFAA6: /9828           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\fileoutputstream.obj
+5DA957D4 time/date Fri Oct 18 08:12:36 2019
+         uid
+         gid
+  100666 mode
+   35C80 size
+correct header end
+
+Archive member name at 3015762: /9919           C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\filelocationpatternconverter.obj
+5DA957D4 time/date Fri Oct 18 08:12:36 2019
+         uid
+         gid
+  100666 mode
+   4A12E size
+correct header end
+
+Archive member name at 305F8CC: /10022          C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\fileinputstream.obj
+5DA957D4 time/date Fri Oct 18 08:12:36 2019
+         uid
+         gid
+  100666 mode
+   36213 size
+correct header end
+
+Archive member name at 3095B1C: /10112          C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\filedatepatternconverter.obj
+5DA957D4 time/date Fri Oct 18 08:12:36 2019
+         uid
+         gid
+  100666 mode
+   57363 size
+correct header end
+
+Archive member name at 30ECEBC: /10211          C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\fileappender.obj
+5DA957D4 time/date Fri Oct 18 08:12:36 2019
+         uid
+         gid
+  100666 mode
+   708EE size
+correct header end
+
+Archive member name at 315D7E6: /10298          C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\file.obj
+5DA957D4 time/date Fri Oct 18 08:12:36 2019
+         uid
+         gid
+  100666 mode
+   86A79 size
+correct header end
+
+Archive member name at 31E429C: /10377          C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\fallbackerrorhandler.obj
+5DA957D4 time/date Fri Oct 18 08:12:36 2019
+         uid
+         gid
+  100666 mode
+   84FA4 size
+correct header end
+
+Archive member name at 326927C: /10472          C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\exception.obj
+5DA957D4 time/date Fri Oct 18 08:12:36 2019
+         uid
+         gid
+  100666 mode
+   64614 size
+correct header end
+
+Archive member name at 32CD8CC: /10556          C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\domconfigurator.obj
+5DA957D4 time/date Fri Oct 18 08:12:36 2019
+         uid
+         gid
+  100666 mode
+  1E4CDF size
+correct header end
+
+Archive member name at 34B25E8: /10646          C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\defaultrepositoryselector.obj
+5DA957D4 time/date Fri Oct 18 08:12:36 2019
+         uid
+         gid
+  100666 mode
+   148E0 size
+correct header end
+
+Archive member name at 34C6F04: /10746          C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\defaultloggerfactory.obj
+5DA957D4 time/date Fri Oct 18 08:12:36 2019
+         uid
+         gid
+  100666 mode
+   2B724 size
+correct header end
+
+Archive member name at 34F2664: /10841          C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\defaultconfigurator.obj
+5DA957D4 time/date Fri Oct 18 08:12:36 2019
+         uid
+         gid
+  100666 mode
+   37506 size
+correct header end
+
+Archive member name at 3529BA6: /10935          C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\datepatternconverter.obj
+5DA957D4 time/date Fri Oct 18 08:12:36 2019
+         uid
+         gid
+  100666 mode
+   63B84 size
+correct header end
+
+Archive member name at 358D766: /11030          C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\datelayout.obj
+5DA957D4 time/date Fri Oct 18 08:12:36 2019
+         uid
+         gid
+  100666 mode
+   48886 size
+correct header end
+
+Archive member name at 35D6028: /11115          C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\dateformat.obj
+5DA957D4 time/date Fri Oct 18 08:12:36 2019
+         uid
+         gid
+  100666 mode
+   29E2F size
+correct header end
+
+Archive member name at 35FFE94: /11200          C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\date.obj
+5DA957D4 time/date Fri Oct 18 08:12:36 2019
+         uid
+         gid
+  100666 mode
+   2F244 size
+correct header end
+
+Archive member name at 362F114: /11279          C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\datagramsocket.obj
+5DA957D4 time/date Fri Oct 18 08:12:36 2019
+         uid
+         gid
+  100666 mode
+   4D560 size
+correct header end
+
+Archive member name at 367C6B0: /11368          C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\datagrampacket.obj
+5DA957D4 time/date Fri Oct 18 08:12:36 2019
+         uid
+         gid
+  100666 mode
+   30131 size
+correct header end
+
+Archive member name at 36AC81E: /11457          C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\dailyrollingfileappender.obj
+5DA957D4 time/date Fri Oct 18 08:12:36 2019
+         uid
+         gid
+  100666 mode
+   5A93D size
+correct header end
+
+Archive member name at 3707198: /11556          C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\cyclicbuffer.obj
+5DA957CB time/date Fri Oct 18 08:12:27 2019
+         uid
+         gid
+  100666 mode
+   628C7 size
+correct header end
+
+Archive member name at 3769A9C: /11643          C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\consoleappender.obj
+5DA957CB time/date Fri Oct 18 08:12:27 2019
+         uid
+         gid
+  100666 mode
+   58C6D size
+correct header end
+
+Archive member name at 37C2746: /11733          C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\configurator.obj
+5DA957CB time/date Fri Oct 18 08:12:27 2019
+         uid
+         gid
+  100666 mode
+   299CA size
+correct header end
+
+Archive member name at 37EC14C: /11820          C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\condition.obj
+5DA957CB time/date Fri Oct 18 08:12:27 2019
+         uid
+         gid
+  100666 mode
+    D9B6 size
+correct header end
+
+Archive member name at 37F9B3E: /11904          C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\classregistration.obj
+5DA957CB time/date Fri Oct 18 08:12:27 2019
+         uid
+         gid
+  100666 mode
+    8F88 size
+correct header end
+
+Archive member name at 3802B02: /11996          C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\classnamepatternconverter.obj
+5DA957CB time/date Fri Oct 18 08:12:27 2019
+         uid
+         gid
+  100666 mode
+   45DA7 size
+correct header end
+
+Archive member name at 38488E6: /12096          C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\class.obj
+5DA957CB time/date Fri Oct 18 08:12:27 2019
+         uid
+         gid
+  100666 mode
+   F87EB size
+correct header end
+
+Archive member name at 394110E: /12176          C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\charsetencoder.obj
+5DA957CB time/date Fri Oct 18 08:12:27 2019
+         uid
+         gid
+  100666 mode
+   5D618 size
+correct header end
+
+Archive member name at 399E762: /12265          C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\charsetdecoder.obj
+5DA957CB time/date Fri Oct 18 08:12:27 2019
+         uid
+         gid
+  100666 mode
+   6583B size
+correct header end
+
+Archive member name at 3A03FDA: /12354          C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\cacheddateformat.obj
+5DA957CB time/date Fri Oct 18 08:12:27 2019
+         uid
+         gid
+  100666 mode
+   50D62 size
+correct header end
+
+Archive member name at 3A54D78: /12445          C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\bytebuffer.obj
+5DA957CB time/date Fri Oct 18 08:12:27 2019
+         uid
+         gid
+  100666 mode
+   28BB9 size
+correct header end
+
+Archive member name at 3A7D96E: /12530          C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\bytearrayoutputstream.obj
+5DA957CB time/date Fri Oct 18 08:12:27 2019
+         uid
+         gid
+  100666 mode
+   4B6AB size
+correct header end
+
+Archive member name at 3AC9056: /12626          C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\bytearrayinputstream.obj
+5DA957CB time/date Fri Oct 18 08:12:27 2019
+         uid
+         gid
+  100666 mode
+   42896 size
+correct header end
+
+Archive member name at 3B0B928: /12721          C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\bufferedwriter.obj
+5DA957CB time/date Fri Oct 18 08:12:27 2019
+         uid
+         gid
+  100666 mode
+   4536E size
+correct header end
+
+Archive member name at 3B50CD2: /12810          C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\basicconfigurator.obj
+5DA957CB time/date Fri Oct 18 08:12:27 2019
+         uid
+         gid
+  100666 mode
+   316FA size
+correct header end
+
+Archive member name at 3B82408: /12902          C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\asyncappender.obj
+5DA957CB time/date Fri Oct 18 08:12:27 2019
+         uid
+         gid
+  100666 mode
+  146862 size
+correct header end
+
+Archive member name at 3CC8CA6: /12990          C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\aprinitializer.obj
+5DA957CB time/date Fri Oct 18 08:12:27 2019
+         uid
+         gid
+  100666 mode
+    EF69 size
+correct header end
+
+Archive member name at 3CD7C4C: /13079          C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\appenderskeleton.obj
+5DA957CB time/date Fri Oct 18 08:12:27 2019
+         uid
+         gid
+  100666 mode
+   54E9D size
+correct header end
+
+Archive member name at 3D2CB26: /13170          C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\appenderattachableimpl.obj
+5DA957CB time/date Fri Oct 18 08:12:27 2019
+         uid
+         gid
+  100666 mode
+   92FE8 size
+correct header end
+
+Archive member name at 3DBFB4A: /13267          C:\Users\Arthur\Documents\log4cxxWin32\msvc15\build\log4cxx\x64\Debug\action.obj
+5DA957CB time/date Fri Oct 18 08:12:27 2019
+         uid
+         gid
+  100666 mode
+   2B4B5 size
+correct header end
+
+  Summary
+
+         3C0 .CRT$XCU
+        12C7 .bss
+      115790 .chks64
+          18 .data
+       1422B .data$r
+      EC9F0C .debug$S
+        39D0 .debug$T
+        B428 .drectve
+        269E .msvcjmc
+       5919C .pdata
+      1045B6 .rdata
+       25DE8 .rdata$r
+         4A0 .rtc$IMZ
+         4A0 .rtc$TMZ
+        17E8 .text$di
+      32787E .text$mn
+       2C22C .text$x
+        1B6C .text$yd
+       8B4A4 .xdata
+        20C8 .xdata$x
